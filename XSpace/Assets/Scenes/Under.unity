@@ -179,6 +179,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Launch Pad (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7106924605608389349, guid: e53db0a88c312d745b6a88e34734e1d8, type: 3}
+      propertyPath: m_TagString
+      value: Finish
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: e53db0a88c312d745b6a88e34734e1d8, type: 3}
@@ -534,7 +538,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3259362452582149504, guid: c3f0b1c69a9a3884fad8bf8c9c3cdad6, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.04
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3259362452582149504, guid: c3f0b1c69a9a3884fad8bf8c9c3cdad6, type: 3}
       propertyPath: m_LocalPosition.z
@@ -592,12 +596,16 @@ PrefabInstance:
       value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8755908589979493718, guid: 22d2dff4e4df8d04ea71605566f9f9c2, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8755908589979493718, guid: 22d2dff4e4df8d04ea71605566f9f9c2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8755908589979493718, guid: 22d2dff4e4df8d04ea71605566f9f9c2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.82
+      value: 5.78
       objectReference: {fileID: 0}
     - target: {fileID: 8755908589979493718, guid: 22d2dff4e4df8d04ea71605566f9f9c2, type: 3}
       propertyPath: m_LocalPosition.z
