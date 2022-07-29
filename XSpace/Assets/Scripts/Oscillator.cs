@@ -5,7 +5,7 @@ using UnityEngine;
 public class Oscillator : MonoBehaviour
 {
     [SerializeField] Vector3 movementVector = Vector3.zero;
-    [SerializeField][Range(0,1)] float movementFactor = 0;
+    float movementFactor = 0;
     [SerializeField] float period = 2f;
 
     Vector3 startingPostion = Vector3.zero;

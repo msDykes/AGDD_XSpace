@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Launch Mat
+  m_Name: Landing Pad
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -79,6 +79,6 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.17515129, g: 0.9056604, b: 0.7996765, a: 1}
-    - _EmissionColor: {r: 0.08388218, g: 0.5971662, b: 0.6132076, a: 1}
+    - _Color: {r: 0.9811321, g: 0.53127116, b: 0.124955505, a: 1}
+    - _EmissionColor: {r: 0.8867924, g: 0.35313228, b: 0.06274474, a: 1}
   m_BuildTextureStacks: []
